@@ -3,7 +3,7 @@
 import lti         from 'ims-lti';
 import querystring from 'querystring';
 
-const lti_shared_secret = "secret";
+const lti_shared_secret = "1b6d04733d8d3342b9b6a1f2d3b5f4aa";
 
 export const handler = (event, context, callback) => {
 
